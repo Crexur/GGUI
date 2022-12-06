@@ -10,7 +10,6 @@ import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 import java.io.*;
-import java.io.FileFilter;
 /**
  *
  * @author user
